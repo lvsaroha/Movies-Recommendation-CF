@@ -1,2 +1,2 @@
 # Movies-Recommendation-CF
-Movies recommendation using collaborative filtering
+Movies recommendation and rating prediction using collaborative filtering 
